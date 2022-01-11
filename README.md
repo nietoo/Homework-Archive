@@ -10,3 +10,5 @@
 | ml-hw5 | Decision Trees |
 | ml-hw6 | Bias-Variance Decomposition |
 | ml-hw7 | Boosting |
+| nlp-hw1 | Text Classification using BERT |
+| nlp-hw2 | Seq2seq Translation using BERT |
